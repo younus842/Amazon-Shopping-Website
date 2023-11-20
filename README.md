@@ -1,1 +1,1 @@
-# Amazon-Shopping-Website
+# Amazon Shopping Website Project
